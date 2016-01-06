@@ -3,13 +3,16 @@ body{
 }
 
 img{
-  ;
+  padding: 14px;
 }
 
 .sidebar{
   float: right;
   width: 20%;
   background-color: #00FF00;
+  border: 4px solid #FF00FF;
+  padding: 14px;
+  margin: 12px;
 }
 
 .main-text{
