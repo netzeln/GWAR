@@ -1,0 +1,26 @@
+body{
+  background-color: #FF0000;
+}
+
+img{
+  ;
+}
+
+.sidebar{
+  float: right;
+  width: 20%;
+  background-color: #00FF00;
+}
+
+.main-text{
+  display:block;
+  position: absolute;
+}
+
+.gwar{
+  position: relative;
+  display: block;
+}
+.huge{
+  font-size: 208px;
+}
